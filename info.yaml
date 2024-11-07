@@ -16,13 +16,13 @@ project:
 pinout:
   # Inputs
   ui[0]: "IN0"  
-  ui[1]: "IN1"
-  ui[2]: "IN2"
-  ui[3]: "IN3"
-  ui[4]: "IN4"
+  ui[1]: "IN1"  #out2
+  ui[2]: "IN2"  #out3
+  ui[3]: "IN3"  #out4
+  ui[4]: "IN4"  #out6
   ui[5]: "IN5"
   ui[6]: "IN6"
-  ui[7]: "IN7"
+  ui[7]: "IN7" #out1
 
   # Outputs
   uo[0]: "OUT0" 
