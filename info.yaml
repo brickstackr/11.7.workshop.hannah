@@ -15,8 +15,8 @@ project:
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   # Inputs
-  ui[0]: "IN0" MUX IN 
-  ui[1]: "IN1" MUX IN
+  ui[0]: "IN0"  
+  ui[1]: "IN1"
   ui[2]: "IN2"
   ui[3]: "IN3"
   ui[4]: "IN4"
@@ -27,8 +27,8 @@ pinout:
   # Outputs
   uo[0]: "OUT0" 
   uo[1]: "OUT1"
-  uo[2]: "OUT2" MUX OUT
-  uo[3]: "OUT3" MUX OUT 
+  uo[2]: "OUT2" 
+  uo[3]: "OUT3"  
   uo[4]: "OUT4"
   uo[5]: "OUT5"
   uo[6]: "OUT6"
